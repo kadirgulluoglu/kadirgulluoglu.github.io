@@ -113,8 +113,24 @@ h6 {
     height: 40px;
 }
 
-#header .social-links a:hover {
-    background: #ff7f00;
+#header .social-links a.github:hover {
+    background: #040404;
+}
+
+#header .social-links a.instagram:hover {
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+}
+
+#header .social-links a.linkedin:hover {
+    background: #3395C4;
+}
+
+#header .social-links a.facebook:hover {
+    background: #3B5998;
+}
+
+#header .social-links a.twitter:hover {
+    background: #55ACEE;
 }
 
 @media (max-width: 992px) {
@@ -664,8 +680,24 @@ section .container {
     transition: 0.3s;
 }
 
-.contact .info-box .social-links a:hover {
-    color: #ff7f00;
+.contact .info-box .social-links a.github:hover {
+    color: black;
+}
+
+.contact .info-box .social-links a.instagram:hover {
+    color: #8448a7;
+}
+
+.contact .info-box .social-links a.linkedin:hover {
+    color: #3395C4;
+}
+
+.contact .info-box .social-links a.facebook:hover {
+    color: #3B5998;
+}
+
+.contact .info-box .social-links a.twitter:hover {
+    color: #55ACEE;
 }
 
 .contact .php-email-form {
