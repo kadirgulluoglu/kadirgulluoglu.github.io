@@ -1,4 +1,3 @@
-# my-portfolio-website-kadirrgulluoglu
+# My porfolio Web Site
 
-http://kadirrgulluoglu.somee.com/Default/Index
-
+https://kadirgulluoglu.github.io/
