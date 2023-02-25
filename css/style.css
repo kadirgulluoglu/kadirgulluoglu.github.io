@@ -748,7 +748,7 @@ a.brand:focus {
 }
 
 .menu-footer {
-    position: absolute;
+    position: fixed;
     left: 15%;
     bottom: 3rem
 }
@@ -779,6 +779,8 @@ a.brand:focus {
 }
 
 .menu-footer .copy {
+    opacity: 0;
+    display: none;
     margin-top: 3.2rem;
     color: #fff;
     line-height: 1.71rem;
@@ -1832,7 +1834,7 @@ a.brand:focus {
     }
 }
 
-@media(min-height:700px) {
+@media(min-height:600px) {
     .copy-bottom {
         display: block
     }
