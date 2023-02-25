@@ -750,7 +750,7 @@ a.brand:focus {
 .menu-footer {
     position: absolute;
     left: 15%;
-    bottom: 4rem
+    bottom: 3rem
 }
 
 .menu-footer .social-list {
@@ -779,8 +779,6 @@ a.brand:focus {
 }
 
 .menu-footer .copy {
-    opacity: 0;
-    display: none;
     margin-top: 3.2rem;
     color: #fff;
     line-height: 1.71rem;
