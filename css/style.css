@@ -1758,7 +1758,7 @@ a.brand:focus {
 
 @media(min-width:768px) {
     html {
-        font-size: 13px
+        font-size: 12px
     }
     .menu {
         width: 50%
@@ -1787,7 +1787,7 @@ a.brand:focus {
 
 @media(min-width:992px) {
     html {
-        font-size: 14px
+        font-size: 13px
     }
     .navbar {
         padding: 2.7rem 0
